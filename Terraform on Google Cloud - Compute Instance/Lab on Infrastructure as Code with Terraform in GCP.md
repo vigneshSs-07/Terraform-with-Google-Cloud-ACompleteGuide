@@ -73,7 +73,7 @@
 
 * Switch to the Cloud Shell and run the terraform init command.
 
-    * terraform init  # to download the plagins and initialize the provider
+    * terraform init  # to download the plugins and initialize the provider
 
     * terraform validate # to validate the configs
 
